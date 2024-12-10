@@ -1,1 +1,1 @@
-# Tasks_DataScience
+# Tasks_Practice
